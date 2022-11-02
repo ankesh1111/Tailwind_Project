@@ -31,7 +31,9 @@ https://soft-liger-7ce5e9.netlify.app
 * React.js
 * API
 * Tailwind CSS
+* JavaScript
 * React router dom
+
 
 # Screenshots:-
 

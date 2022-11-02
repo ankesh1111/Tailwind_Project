@@ -5,7 +5,7 @@ Tailwind CSS is an open source CSS framework. The main feature of this library i
 # About this project
 This Project made by me in three days
 
-In this project we have tried to clone frontend of Lyst. Project design is responsive
+In this project we have tried to clone frontend of Tailwind. Project design is responsive
 for all screen sizes.
 
 # Here is the link of our website live on netlify:
